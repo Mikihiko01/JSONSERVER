@@ -1,0 +1,25 @@
+{
+    "konyvek": [
+        {
+            "id": 1,
+            "nev": "Peti",
+            "cim": "Az elveszet alma",
+            "ar": "300 ft",
+            "kategoria": "regény"
+        },
+        {
+            "id": 2,
+            "nev": "Adam",
+            "cim": "Az elveszet Körte",
+            "ar": "200 ft",
+            "kategoria": "történet"
+        }
+    ],
+    "serzo": [
+        {
+            "id": 1,
+            "nev": "Anna",
+            "szul": 21342
+        }
+    ]
+}
